@@ -1,0 +1,20 @@
+TODO list and known issues
+--------------------------
+
+
+Known issues
+------------
+
+
+- none
+
+
+To do
+------
+
+- Lock camera to view buttons can be toggled on and off should change color to distinguish whish state it is in
+
+User requests
+--------------
+
+- add a button to lock the view from rotating.  This is helpful when working with 2D, background images, etc.
